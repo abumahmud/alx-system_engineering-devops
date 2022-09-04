@@ -1,1 +1,1 @@
-prints the absolute path name of cur dir
+I want to go home
