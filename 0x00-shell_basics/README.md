@@ -1,2 +1,1 @@
-Listing everything
-Listing everything
+Printing file type
