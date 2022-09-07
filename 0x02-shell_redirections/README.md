@@ -1,1 +1,1 @@
-Displaying all users & their home dirs
+Creating a file that ends with a new line
