@@ -1,1 +1,1 @@
-Printing a specific pattern
+Number of lines containing bin
