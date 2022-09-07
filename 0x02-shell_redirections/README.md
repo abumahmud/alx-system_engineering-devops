@@ -1,1 +1,1 @@
-Display lines containing the pattern “root” and 3 lines after them in the file
+Display all files not containing bin
