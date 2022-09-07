@@ -1,1 +1,1 @@
-This revereses it output
+Displaying all users & their home dirs
