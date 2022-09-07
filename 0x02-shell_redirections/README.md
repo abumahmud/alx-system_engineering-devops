@@ -1,1 +1,1 @@
-Replacament of characters
+Removing all letters c and C from input
