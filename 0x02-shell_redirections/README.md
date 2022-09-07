@@ -1,1 +1,1 @@
-Display all files not containing bin
+Displaying files starting with a letter
