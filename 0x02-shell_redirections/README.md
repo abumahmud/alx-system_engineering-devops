@@ -1,1 +1,1 @@
-Printing unique words
+Printing a specific pattern
