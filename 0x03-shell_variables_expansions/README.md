@@ -1,1 +1,1 @@
-Converts from binary to decimal
+Print all combinations of two letters save oo
