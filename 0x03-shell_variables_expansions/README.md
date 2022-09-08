@@ -1,1 +1,1 @@
-List all variables and functions
+Creates a local variable
