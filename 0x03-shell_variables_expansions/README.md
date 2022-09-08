@@ -1,1 +1,1 @@
-Display breath exp love
+Converts from binary to decimal
