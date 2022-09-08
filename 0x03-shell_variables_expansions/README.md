@@ -1,1 +1,1 @@
-Creates a new global variable
+Print result of power divided by rule
