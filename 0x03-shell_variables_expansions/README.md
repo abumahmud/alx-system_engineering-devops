@@ -1,1 +1,1 @@
-Counting the number of dirs in the path
+Printing a list of environment variables
